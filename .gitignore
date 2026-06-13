@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+data/processed/
+data/raw/*.pdf
+evaluation/results.csv
+.DS_Store
+*.egg-info/

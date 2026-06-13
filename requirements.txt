@@ -1,0 +1,24 @@
+# Core RAG pipeline
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-google-genai==1.0.10
+
+# PDF parsing
+pymupdf==1.24.9
+
+# Embeddings (free, no API key)
+sentence-transformers==3.0.1
+
+# Vector database
+chromadb==0.5.5
+
+# LLM API
+google-generativeai==0.7.2
+
+# UI
+streamlit==1.38.0
+
+# Utilities
+python-dotenv==1.0.1
+pandas==2.2.2
+tqdm==4.66.5
